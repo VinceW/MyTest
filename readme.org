@@ -1,5 +1,12 @@
 
-* Org extension
+* GNU Emacs 
+An extensible, customizable, free/libre text editor — and more.
 
+more at: https://www.gnu.org/software/emacs/
 
-** This is a readme with an org extention.
+** Org mode
+
+Org mode is for keeping notes, maintaining TODO lists, planning projects, 
+and authoring documents with a fast and effective plain-text system.
+
+more at: http://orgmode.org/
